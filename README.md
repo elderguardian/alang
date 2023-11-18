@@ -1,6 +1,6 @@
 # A-Lang
 
-I dont know what I am doing
+I don't know what I am doing
 
 ## Syntax
 
