@@ -21,3 +21,8 @@ I dont know what I am doing
 ```
 php interpreter.php hello_world.alang 
 ```
+
+## Example Hello World
+```
+(Aaaa).AAA,(AAA),,aaa,ä(AaAAA).Ä,aaa,[AAa],ääaaaa,
+```
