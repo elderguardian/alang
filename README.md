@@ -15,3 +15,9 @@ I dont know what I am doing
 | Ä      | Go backwards one position                                         |
 | a      | Add one to number at current position                             |
 | A      | Subtract one from number at current position                      |
+
+## Running
+
+```
+php interpreter.php hello_world.alang 
+```
