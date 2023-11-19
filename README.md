@@ -1,6 +1,18 @@
-# A-Lang
+<div align="center">
+<img width="200" src="https://github.com/elderguardian/alang/assets/129489839/6fa76695-e4ec-4a7b-b07d-0e570d39506a">
+<p>I don't know what I am doing</p>
+<br>
+</div>
 
-I don't know what I am doing
+## About alang
+Alang lets you print characters in a very effortful way.
+The syntax was created on paper in a five minute break in school.
+
+## How does it work?
+Imagine a long array of numbers where you start at position 0.
+You can increase and decrease the values at the current position.
+You can also go forward one position or go backwards.
+If you know Brainfuck you should be familiar with this.
 
 ## Syntax
 
